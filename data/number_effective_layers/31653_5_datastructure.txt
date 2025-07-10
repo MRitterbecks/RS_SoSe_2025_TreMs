@@ -1,0 +1,193 @@
+{
+  "Id": 1837,
+  "Title": "31653 data structure",
+  "Description": "",
+  "inUse": true,
+  "Structured": true,
+  "Variables": [
+    {
+      "Id": 30263,
+      "Label": "EP",
+      "Description": "Plot name",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 30264,
+      "Label": "enl_2014",
+      "Description": "Effective number of layers (ENL) in 2014",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 6,
+        "Name": "double",
+        "Description": "A real number",
+        "SystemType": "Double"
+      }
+    },
+    {
+      "Id": 30265,
+      "Label": "enl_2019",
+      "Description": "Effective number of layers (ENL) in 2019",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 6,
+        "Name": "double",
+        "Description": "A real number",
+        "SystemType": "Double"
+      }
+    },
+    {
+      "Id": 30266,
+      "Label": "enl_2023",
+      "Description": "Effective number of layers (ENL) in 2023",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 6,
+        "Name": "double",
+        "Description": "A real number",
+        "SystemType": "Double"
+      }
+    },
+    {
+      "Id": 30271,
+      "Label": "enl_abs_diff_2014_2019",
+      "Description": "Absolute change of ENL between 2014 and 2019",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 6,
+        "Name": "double",
+        "Description": "A real number",
+        "SystemType": "Double"
+      }
+    },
+    {
+      "Id": 30272,
+      "Label": "enl_rel_diff_percent_2014_2019",
+      "Description": "Relative change of ENL between 2019 and 2023",
+      "isOptional": true,
+      "unit": {
+        "Id": 116,
+        "Name": "percentage",
+        "Description": "ratio expressed as a fraction of 100",
+        "Dimension": {
+          "Name": "parts-per expression",
+          "Description": "ratio expressed as fraction; SI unit: %; BEXIS units: %, ‰, ppm",
+          "Specification": "dimensionless"
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 6,
+        "Name": "double",
+        "Description": "A real number",
+        "SystemType": "Double"
+      }
+    },
+    {
+      "Id": 30273,
+      "Label": "enl_abs_diff_2019_2023",
+      "Description": "Absolute change of ENL between 2019 and 2023",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 6,
+        "Name": "double",
+        "Description": "A real number",
+        "SystemType": "Double"
+      }
+    },
+    {
+      "Id": 30274,
+      "Label": "enl_rel_diff_percent_2019_2023",
+      "Description": "Relative change of ENL between 2019 and 2023",
+      "isOptional": true,
+      "unit": {
+        "Id": 116,
+        "Name": "percentage",
+        "Description": "ratio expressed as a fraction of 100",
+        "Dimension": {
+          "Name": "parts-per expression",
+          "Description": "ratio expressed as fraction; SI unit: %; BEXIS units: %, ‰, ppm",
+          "Specification": "dimensionless"
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 6,
+        "Name": "double",
+        "Description": "A real number",
+        "SystemType": "Double"
+      }
+    }
+  ]
+}

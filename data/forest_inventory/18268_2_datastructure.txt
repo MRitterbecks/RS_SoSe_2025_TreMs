@@ -1,0 +1,147 @@
+{
+  "Id": 602,
+  "Title": "18268 data structure",
+  "Description": "Data structure for structured data",
+  "inUse": true,
+  "Structured": true,
+  "Variables": [
+    {
+      "Id": 12824,
+      "Label": "Exploratory",
+      "Description": "Exploratory",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 12825,
+      "Label": "EP_Plotid",
+      "Description": "EP_Plotid",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 12826,
+      "Label": "species",
+      "Description": "Tree species (name shortened to 16 characters)",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 12827,
+      "Label": "dbh",
+      "Description": "Diameter at breast height",
+      "isOptional": true,
+      "unit": {
+        "Id": 57,
+        "Name": "centimeter",
+        "Description": "length unit",
+        "Dimension": {
+          "Name": "length",
+          "Description": "measure of distance; SI unit: m; BEXIS units:  µm, mm, cm, m, km",
+          "Specification": "L(1,0)M(0,0)T(0,0)I(0,0)P(0,0)N(0,0)J(0,0)"
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 6,
+        "Name": "double",
+        "Description": "A real number",
+        "SystemType": "Double"
+      }
+    },
+    {
+      "Id": 12828,
+      "Label": "date_in",
+      "Description": "Date of sampling",
+      "isOptional": true,
+      "unit": {
+        "Id": 45,
+        "Name": "date ISO y-m-d",
+        "Description": "date following the ISO norm",
+        "Dimension": {
+          "Name": "date time",
+          "Description": "format for date and time representation; SI unit: YYYY-MM-DD hh:mm:ss; BEXIS units: mm:ss, hh:mm:ss,  hh:mm, yyyy, yyyy-MM-dd, yyyy-MM-ddThh:mm:ss",
+          "Specification": "dimensionless"
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 10,
+        "Name": "date-iso",
+        "Description": "",
+        "SystemType": "DateTime"
+      }
+    },
+    {
+      "Id": 12829,
+      "Label": "source",
+      "Description": "Source of data",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    }
+  ]
+}

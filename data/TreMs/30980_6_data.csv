@@ -1,0 +1,259 @@
+PlotID,FMS,TremType,Abu
+HEW5,EA,Cavity,1
+HEW5,EA,"Crown deadw.",4
+HEW5,EA,Deformation,0
+HEW5,EA,Epiphytes,0
+HEW5,EA,Injury,3
+HEW5,EA,Other,0
+HEW6,EA,Cavity,8
+HEW6,EA,"Crown deadw.",5
+HEW6,EA,Deformation,1
+HEW6,EA,Epiphytes,0
+HEW6,EA,Injury,3
+HEW6,EA,Other,1
+HEW7,UEA,Cavity,18
+HEW7,UEA,"Crown deadw.",39
+HEW7,UEA,Deformation,2
+HEW7,UEA,Epiphytes,22
+HEW7,UEA,Injury,30
+HEW7,UEA,Other,4
+HEW8,UEA,Cavity,14
+HEW8,UEA,"Crown deadw.",15
+HEW8,UEA,Deformation,2
+HEW8,UEA,Epiphytes,0
+HEW8,UEA,Injury,1
+HEW8,UEA,Other,0
+HEW9,UEA,Cavity,14
+HEW9,UEA,"Crown deadw.",26
+HEW9,UEA,Deformation,3
+HEW9,UEA,Epiphytes,0
+HEW9,UEA,Injury,6
+HEW9,UEA,Other,0
+HEW10,UNM,Cavity,31
+HEW10,UNM,"Crown deadw.",74
+HEW10,UNM,Deformation,5
+HEW10,UNM,Epiphytes,0
+HEW10,UNM,Injury,15
+HEW10,UNM,Other,8
+HEW11,UNM,Cavity,4
+HEW11,UNM,"Crown deadw.",41
+HEW11,UNM,Deformation,10
+HEW11,UNM,Epiphytes,2
+HEW11,UNM,Injury,12
+HEW11,UNM,Other,1
+HEW12,UNM,Cavity,21
+HEW12,UNM,"Crown deadw.",61
+HEW12,UNM,Deformation,0
+HEW12,UNM,Epiphytes,0
+HEW12,UNM,Injury,14
+HEW12,UNM,Other,0
+HEW15,EA,Cavity,3
+HEW15,EA,"Crown deadw.",2
+HEW15,EA,Deformation,0
+HEW15,EA,Epiphytes,0
+HEW15,EA,Injury,4
+HEW15,EA,Other,1
+HEW16,EA,Cavity,0
+HEW16,EA,"Crown deadw.",10
+HEW16,EA,Deformation,0
+HEW16,EA,Epiphytes,0
+HEW16,EA,Injury,1
+HEW16,EA,Other,1
+HEW17,EA,Cavity,5
+HEW17,EA,"Crown deadw.",1
+HEW17,EA,Deformation,1
+HEW17,EA,Epiphytes,2
+HEW17,EA,Injury,29
+HEW17,EA,Other,7
+HEW18,EA,Cavity,1
+HEW18,EA,"Crown deadw.",4
+HEW18,EA,Deformation,3
+HEW18,EA,Epiphytes,0
+HEW18,EA,Injury,4
+HEW18,EA,Other,0
+HEW19,EA,Cavity,10
+HEW19,EA,"Crown deadw.",17
+HEW19,EA,Deformation,2
+HEW19,EA,Epiphytes,0
+HEW19,EA,Injury,17
+HEW19,EA,Other,3
+HEW20,EA,Cavity,6
+HEW20,EA,"Crown deadw.",16
+HEW20,EA,Deformation,0
+HEW20,EA,Epiphytes,0
+HEW20,EA,Injury,18
+HEW20,EA,Other,4
+HEW21,EA,Cavity,19
+HEW21,EA,"Crown deadw.",19
+HEW21,EA,Deformation,1
+HEW21,EA,Epiphytes,1
+HEW21,EA,Injury,6
+HEW21,EA,Other,2
+HEW22,EA,Cavity,33
+HEW22,EA,"Crown deadw.",18
+HEW22,EA,Deformation,0
+HEW22,EA,Epiphytes,0
+HEW22,EA,Injury,11
+HEW22,EA,Other,0
+HEW23,EA,Cavity,4
+HEW23,EA,"Crown deadw.",8
+HEW23,EA,Deformation,4
+HEW23,EA,Epiphytes,0
+HEW23,EA,Injury,2
+HEW23,EA,Other,2
+HEW24,EA,Cavity,13
+HEW24,EA,"Crown deadw.",32
+HEW24,EA,Deformation,9
+HEW24,EA,Epiphytes,1
+HEW24,EA,Injury,6
+HEW24,EA,Other,0
+HEW25,EA,Cavity,6
+HEW25,EA,"Crown deadw.",35
+HEW25,EA,Deformation,11
+HEW25,EA,Epiphytes,1
+HEW25,EA,Injury,12
+HEW25,EA,Other,0
+HEW26,UEA,Cavity,18
+HEW26,UEA,"Crown deadw.",3
+HEW26,UEA,Deformation,1
+HEW26,UEA,Epiphytes,0
+HEW26,UEA,Injury,7
+HEW26,UEA,Other,1
+HEW27,UEA,Cavity,3
+HEW27,UEA,"Crown deadw.",4
+HEW27,UEA,Deformation,1
+HEW27,UEA,Epiphytes,1
+HEW27,UEA,Injury,4
+HEW27,UEA,Other,0
+HEW28,UEA,Cavity,26
+HEW28,UEA,"Crown deadw.",6
+HEW28,UEA,Deformation,0
+HEW28,UEA,Epiphytes,0
+HEW28,UEA,Injury,4
+HEW28,UEA,Other,0
+HEW29,UEA,Cavity,15
+HEW29,UEA,"Crown deadw.",37
+HEW29,UEA,Deformation,2
+HEW29,UEA,Epiphytes,0
+HEW29,UEA,Injury,10
+HEW29,UEA,Other,2
+HEW30,UEA,Cavity,6
+HEW30,UEA,"Crown deadw.",33
+HEW30,UEA,Deformation,7
+HEW30,UEA,Epiphytes,1
+HEW30,UEA,Injury,7
+HEW30,UEA,Other,0
+HEW31,UEA,Cavity,2
+HEW31,UEA,"Crown deadw.",16
+HEW31,UEA,Deformation,6
+HEW31,UEA,Epiphytes,7
+HEW31,UEA,Injury,6
+HEW31,UEA,Other,0
+HEW32,UEA,Cavity,4
+HEW32,UEA,"Crown deadw.",30
+HEW32,UEA,Deformation,2
+HEW32,UEA,Epiphytes,4
+HEW32,UEA,Injury,4
+HEW32,UEA,Other,0
+HEW33,UEA,Cavity,12
+HEW33,UEA,"Crown deadw.",12
+HEW33,UEA,Deformation,0
+HEW33,UEA,Epiphytes,0
+HEW33,UEA,Injury,18
+HEW33,UEA,Other,1
+HEW34,UNM,Cavity,21
+HEW34,UNM,"Crown deadw.",53
+HEW34,UNM,Deformation,8
+HEW34,UNM,Epiphytes,24
+HEW34,UNM,Injury,19
+HEW34,UNM,Other,0
+HEW35,UNM,Cavity,7
+HEW35,UNM,"Crown deadw.",17
+HEW35,UNM,Deformation,1
+HEW35,UNM,Epiphytes,13
+HEW35,UNM,Injury,14
+HEW35,UNM,Other,3
+HEW36,UNM,Cavity,15
+HEW36,UNM,"Crown deadw.",43
+HEW36,UNM,Deformation,10
+HEW36,UNM,Epiphytes,4
+HEW36,UNM,Injury,21
+HEW36,UNM,Other,1
+HEW37,UNM,Cavity,26
+HEW37,UNM,"Crown deadw.",39
+HEW37,UNM,Deformation,5
+HEW37,UNM,Epiphytes,37
+HEW37,UNM,Injury,22
+HEW37,UNM,Other,5
+HEW38,UNM,Cavity,11
+HEW38,UNM,"Crown deadw.",67
+HEW38,UNM,Deformation,11
+HEW38,UNM,Epiphytes,1
+HEW38,UNM,Injury,9
+HEW38,UNM,Other,0
+HEW39,UNM,Cavity,17
+HEW39,UNM,"Crown deadw.",49
+HEW39,UNM,Deformation,6
+HEW39,UNM,Epiphytes,0
+HEW39,UNM,Injury,8
+HEW39,UNM,Other,4
+HEW40,UNM,Cavity,9
+HEW40,UNM,"Crown deadw.",59
+HEW40,UNM,Deformation,7
+HEW40,UNM,Epiphytes,1
+HEW40,UNM,Injury,7
+HEW40,UNM,Other,0
+HEW41,UNM,Cavity,22
+HEW41,UNM,"Crown deadw.",58
+HEW41,UNM,Deformation,3
+HEW41,UNM,Epiphytes,0
+HEW41,UNM,Injury,18
+HEW41,UNM,Other,0
+HEW42,UNM,Cavity,9
+HEW42,UNM,"Crown deadw.",33
+HEW42,UNM,Deformation,8
+HEW42,UNM,Epiphytes,0
+HEW42,UNM,Injury,11
+HEW42,UNM,Other,1
+HEW43,EA,Cavity,2
+HEW43,EA,"Crown deadw.",12
+HEW43,EA,Deformation,0
+HEW43,EA,Epiphytes,0
+HEW43,EA,Injury,7
+HEW43,EA,Other,0
+HEW44,EA,Cavity,0
+HEW44,EA,"Crown deadw.",0
+HEW44,EA,Deformation,0
+HEW44,EA,Epiphytes,0
+HEW44,EA,Injury,0
+HEW44,EA,Other,0
+HEW46,EA,Cavity,0
+HEW46,EA,"Crown deadw.",14
+HEW46,EA,Deformation,1
+HEW46,EA,Epiphytes,0
+HEW46,EA,Injury,5
+HEW46,EA,Other,6
+HEW47,EA,Cavity,1
+HEW47,EA,"Crown deadw.",48
+HEW47,EA,Deformation,3
+HEW47,EA,Epiphytes,2
+HEW47,EA,Injury,5
+HEW47,EA,Other,2
+HEW48,UEA,Cavity,13
+HEW48,UEA,"Crown deadw.",21
+HEW48,UEA,Deformation,1
+HEW48,UEA,Epiphytes,2
+HEW48,UEA,Injury,9
+HEW48,UEA,Other,0
+HEW49,UEA,Cavity,2
+HEW49,UEA,"Crown deadw.",12
+HEW49,UEA,Deformation,3
+HEW49,UEA,Epiphytes,0
+HEW49,UEA,Injury,3
+HEW49,UEA,Other,0
+HEW50,UNM,Cavity,7
+HEW50,UNM,"Crown deadw.",37
+HEW50,UNM,Deformation,2
+HEW50,UNM,Epiphytes,1
+HEW50,UNM,Injury,11
+HEW50,UNM,Other,1
